@@ -1,0 +1,56 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    margin: 10px;
+  }
+  
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+    color:  #0099cc !important;
+  }
+ .text{
+  font-size: 20px;
+}
+.navbar-brand{
+  font-size: 30px;
+
+}
+h3,h1,p{
+  letter-spacing: 1px;
+}
+
+.bg-1{
+  background-image: url('payal.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+}
+.col-sm-3:hover{
+  box-shadow: 1px 2px 2px gray;
+}
+div .glry:hover{
+
+  box-shadow: 1px 2px 3px gray;
+}
+
+.hig{
+  height: 10px;
+}
+.flt{
+  float: right;
+}
+.col-md-3{
+  text-align: center;
+}
+.col-sm-6:hover{
+   box-shadow: 2px 3px 5px lightgray;
+
+}
